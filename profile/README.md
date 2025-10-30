@@ -1,4 +1,4 @@
-# 🧱 Bloxgrid
+# Bloxgrid
 
 **Bloxgrid** is an upcoming unified toolset designed to power the next generation of Roblox developers.
 
